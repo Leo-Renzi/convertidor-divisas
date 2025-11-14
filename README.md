@@ -89,5 +89,4 @@ convertidor-divisas/
 Leonardo Renzi
 Tecnicatura Superior en Desarrollo de Software
 
-**Repositorio:** https://github.com/TU-USUARIO/convertidor-divisas
 **Demo:** https://convertidor-divisas-vue.netlify.app/
